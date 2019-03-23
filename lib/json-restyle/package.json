@@ -1,6 +1,14 @@
 {
   "name": "json-restyle",
+  "description": "Rename keys of JSON data",
+  "bugs": "https://github.com/tapaswi/json-restyle/issues",
   "version": "0.0.1",
+  "main": "./bundles/json-restyle.umd.js",
+  "typings": "./dist/json-restyle.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tapaswi/json-restyle.git"
+  },
   "dependencies": {
   },
   "peerDependencies": {
