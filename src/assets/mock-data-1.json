@@ -1,0 +1,6 @@
+{
+    "version": "0.0.1",
+    "name": "json-restyle",
+    "description": "Reforms json object",
+    "feature": "json object key renaming"
+}

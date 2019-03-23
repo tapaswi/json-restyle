@@ -1,0 +1,17 @@
+<h2>Service Method Usage</h2>
+<div>
+  <div>
+    <h3>Single JSON Object</h3>
+    <div>Original:: {{jsonObject | json}}</div>
+    <div>Modified:: {{jsonObjectModified | json}}</div>
+  </div>
+  <div>
+    <h3>JSON Object Array</h3>
+    <div>Original:: {{jsonObjectArray | json}}</div>
+    <div>Modified:: {{jsonObjectArrayModified | json}}</div>
+  </div>
+  <!--<h2>Nested JSON Object</h2>-->
+</div>
+<hr/>
+<h2>Component Usage</h2>
+<json-restyle [data]="jsonObject" [mapping]="jsonOptions"></json-restyle>

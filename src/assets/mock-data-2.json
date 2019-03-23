@@ -1,0 +1,14 @@
+[
+    {
+        "version": "0.0.1",
+        "name": "json-restyle",
+        "description": "Reforms json object",
+        "feature": "json object key renaming"
+    },
+    {
+        "version": "1.0.0",
+        "name": "json-restyle",
+        "description": "Reforms json object with improvements",
+        "feature": "json object array key renaming"
+    }
+]
