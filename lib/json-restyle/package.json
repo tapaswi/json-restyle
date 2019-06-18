@@ -1,12 +1,25 @@
 {
   "name": "json-restyle",
   "description": "Rename keys of JSON data",
-  "bugs": "https://github.com/tapaswi/json-restyle/issues",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/tapaswi/json-restyle.git"
   },
+  "keywords": [
+    "Angular",
+    "Rename",
+    "JSON",
+    "keys",
+    "restyle",
+    "JSON Object"
+  ],
+  "author": "Tapaswi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tapaswi/json-restyle/issues"
+  },
+  "homepage": "https://github.com/tapaswi/json-restyle#readme",
   "dependencies": {
   },
   "peerDependencies": {
