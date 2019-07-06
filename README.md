@@ -3,7 +3,7 @@ This is a simple library to renames JSON data keys.
 
 ### Quick links
 
-[Example application](https://tapaswi.github.io)
+[Example application](https://tapaswi.github.io/json-restyle/)
  |
 [StackBlitz example](https://stackblitz.com/github/tapaswi/json-restyle)
 
